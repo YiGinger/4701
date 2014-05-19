@@ -13,10 +13,10 @@ The data from CULPA in JSON format. There are two files in the data, one with pr
 # Objective
 
 With this dataset,some exploratory data analysis can be applied to it. Try to ask some questions and look if we can find answer from this dataset. Those questions can be:
-1. Is there any relationship between the workload and the evaluation of a professor?(i.e. the nugget of the professor is "none" or "silver" or "gold")
-2. Are there any difference in words frequency in reviews from different departments?
-3. What's the distribution of nuggets in different departments?
-4. What kind of reviews would get most "agree"/"disagree"/"fun"?
+1.  Is there any relationship between the workload and the evaluation of a professor?(i.e. the nugget of the professor is "none" or "silver" or "gold")
+2.  Are there any difference in words frequency in reviews from different departments?
+3.  What's the distribution of nuggets in different departments?
+4.  What kind of reviews would get most "agree"/"disagree"/"fun"?
 I am not sure whether we can find answere of those questions from this dataset, but I can just do some exploratory analysis to see. 
 
 #Analysis
